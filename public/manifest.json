@@ -1,0 +1,10 @@
+{
+  "name": "LifeOS 2.0",
+  "short_name": "LifeOS",
+  "description": "Lokaler KI-gestützter Lebensassistent",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": []
+}
